@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Desserts in Miri</string>
+    <string name="item_image_desc">Image of dessert shop</string>
+    <string name="favourite_icon_desc">Favourite status</string>
+</resources>

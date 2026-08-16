@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base theme -->
+    <style name="Base.Theme.DessertsInMiri" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize theme -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryDark">@color/purple_700</item>
+        <item name="colorAccent">@color/teal_200</item>
+    </style>
+
+    <style name="Theme.DessertsInMiri" parent="Base.Theme.DessertsInMiri" />
+    <style name="CategoryButton" parent="Widget.AppCompat.Button.Borderless">
+        <item name="android:layout_margin">4dp</item>
+        <item name="android:padding">8dp</item>
+        <item name="android:backgroundTint">@color/purple_200</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+</resources>
